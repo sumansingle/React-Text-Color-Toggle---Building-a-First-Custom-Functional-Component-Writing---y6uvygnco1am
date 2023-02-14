@@ -1,18 +1,11 @@
 .redColor{
-
-font-size: 30px;
-
 color:red;
-
+  font-size:30px;
 }
 
 .blueColor{
-
-font-size: 30px;
-
-font-style: italic;
-
-color: blue;
-
+color:blue;
+  font-style:italic;
+  font-size:30px;
 }
 
