@@ -1,15 +1,18 @@
-.redColor {
-  font-size: 30px;
-  color: red;
+.redColor{
+
+font-size: 30px;
+
+color:red;
+
 }
 
-.blueColor {
-  font-size: 30px;
-  color: blue;
-  font-style: italic;
-}
-.App {
-  font-family: sans-serif;
-  text-align: center;
+.blueColor{
+
+font-size: 30px;
+
+font-style: italic;
+
+color: blue;
+
 }
 
